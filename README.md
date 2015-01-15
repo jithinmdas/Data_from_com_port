@@ -1,5 +1,5 @@
 # Serial-Data-from-Arduino
-This project contains program written in java. It is used for getting data from Arduino through com ports in windows.      
+This project has written in java. It is used for getting data from Arduino through com ports in windows.      
 And you have to download RXTXcomm library to run this project. 
 This is available at the link given below,   
 http://www.jcontrol.org/download/rxtx_en.html   
